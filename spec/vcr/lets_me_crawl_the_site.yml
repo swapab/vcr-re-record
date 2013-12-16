@@ -1,0 +1,367 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://www.legalwins.com/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Anemone/0.7.2
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Mon, 16 Dec 2013 07:59:12 GMT
+      Server:
+      - Apache/2.2.25 (Unix) mod_ssl/2.2.25 OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4
+      X-Powered-By:
+      - PHP/5.3.27
+      Connection:
+      - close
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - text/html
+    body:
+      encoding: UTF-8
+      string: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html
+        xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n<title>Michigan DUI Lawyer
+        | DUI Michigan DWI Drunk Driving OWI Defense Attorney MI</title>\n<meta http-equiv=\"Content-Type\"
+        content=\"text/html; charset=utf-8\" />\n<meta content=\"text/html; charset=iso-8859-1\"
+        http-equiv=\"Content-Type\" />\n<meta name=\"description\" content=\"877-692-7463
+        Michigan DUI OWI Attorney Criminal Defense Law Firm in Oakland County, MI
+        - OUIL Michigan DUI Lawyer Joseph F. Awad defends felonies misdemeanors OMVI/UBAC/DWI
+        and license restoration.\" />\n<meta name=\"keywords\" content=\"Michigan
+        DUI, DUI Michigan, drunk driving, OWI, OUIL, criminal defense attorney, lawyer,
+        felonies, DWI, UBAC, UBAL, points, MI, traffic, tickets, violations\" />\n<meta
+        content=\"INDEX, ALL\" name=\"robots\" />\n<meta content=\"safe for kids\"
+        name=\"rating\" />\n<link rel=\"stylesheet\" type=\"text/css\" href=\"http://yui.yahooapis.com/2.7.0/build/reset/reset-min.css\"
+        /> \n<link type=\"text/css\" rel=\"stylesheet\" href=\"/assets/css/main.css\"
+        />\n</head>\n\n<body>\n\n<div id=\"main\">\n\n<div id=\"header\">\n<div id=\"topbar\">\n
+        \   <div id=\"topbarinner\">\n        <span>Michigan DUI Lawyer Dedicated
+        to Achieving <a href=\"/dui-case-reviews/\">Victory in Your Case</a> <span
+        class=\"telephone\">734-507-1333</span></span>\n    </div>\n</div>\n<div class=\"left\">\n<a
+        id=\"homelink\" href=\"/\"></a>\n<!-- JoomlaWorks \"Simple Image Rotator\"
+        Module (v1.1) starts here -->\n<style type=\"text/css\" media=\"all\">\nul#jw-sir
+        {position:relative;list-style:none;list-style-image:none;margin:0;padding:10px
+        0;overflow:hidden;border:0px solid #666;background:none;width:200px;height:100px;}\nul#jw-sir
+        li {list-style:none;margin:0px;padding:0px;border:none;background:none;}\nul#jw-sir
+        li a {margin:0px;padding:0px;border:none;background:none;}\nul#jw-sir li a
+        img {display:none;position:absolute;top:0;right:0px;z-index:1;border:none;background:none;}\nul#jw-sir
+        li#jw-sir-loading {background:#fff url(/images/loading-round.gif) no-repeat
+        center center;width:100%;height:100%;}\n</style>    \n<script type=\"text/javascript\"
+        src=\"/includes/imagerotator.js\"></script>\n<script type=\"text/javascript\">var
+        delay=6000;var transition=40;</script>    \n<div style=\"text-align: center;\">\n<div
+        style=\"width:200px; height:100px; text-align: left; position: relative;\">\n\n<ul
+        id=\"jw-sir\" class=\"\">\n  <li id=\"jw-sir-loading\"></li>\n  \n  <li><a
+        href=\"/\"><img src=\"/assets/images/slideshow/legalwins-testimonial1.jpg\"
+        border=\"0\" /></a></li>\n  <li><a href=\"/\"><img src=\"/assets/images/slideshow/legalwins-testimonial2.jpg\"
+        border=\"0\" /></a></li>\n  <li><a href=\"/\"><img src=\"/assets/images/slideshow/legalwins-testimonial3.jpg\"
+        border=\"0\" /></a></li>\n  <li><a href=\"/\"><img src=\"/assets/images/slideshow/legalwins-testimonial4.jpg\"
+        border=\"0\" /></a></li>             \n</ul>  \n\n</div>\n</div>\n<!-- JoomlaWorks
+        \"Simple Image Rotator\" Module (v1.1) ends here -->\n\n</div><!-- end of
+        #header .left -->\n<div class=\"right\"><span class=\"title\">The Law Office
+        of Joseph F. Awad</span><br /><h2 class=\"title\">Michigan DUI Lawyer &amp;
+        Attorney for Criminal Defense</h2>\n<h3 class=\"title\">&quot;...amazing throughout
+        my almost 6-month ordeal&quot;<br /><span>L.W. &bull; Satisfied OWI Client</span></h3>
+        </div><!-- end of #header .right -->\n\n<div class=\"clear\"></div><!-- end
+        of  .clear --></div><!-- end of #header -->\n\n<div class=\"space\"></div>\n\n<div
+        id=\"maincontent\">\n<div id=\"left-content\">\n<h2 class=\"header\">Get DUI
+        Help Today</h2>\n<img src=\"/assets/images/line.jpg\" alt=\"line\" /><br />\n\n<div
+        id=\"nav\">\n<ul class=\"bullet\">\n<li><a href=\"/\" title=\"Michigan DUI
+        Lawyer\">Home</a></li>\n<li><a href=\"/contactus.php\" title=\"Contact MI
+        DWI Attorney\">Contact Attorney Awad</a></li>\n<li><a href=\"/firm_overview.php\">Law
+        Firm Overview</a></li>\n<li><a href=\"/dui-case-reviews/\">DUI Case Reviews</a>\t</li>\n<li><a
+        href=\"/arrested_in_michigan.php\">Arrested in Michigan?</a></li>\n<li><a
+        href=\"/first-offense-dui-laws-michigan.php\">First Offense Michigan DUI?</a></li>\n<li><a
+        href=\"/we_can_help.php\">We Can Help</a></li>\n<li><a href=\"/free.php\"><b>Free
+        Consultation</b></a></li>\n</ul>\n\n<!-- Form Parsed by: 3PRIME SimpleForms
+        Library. All Rights Reserved. -->\n\n<form name=\"form\" method=\"post\" action=\"/forms/quickform/process.php\"
+        onsubmit=\"return FormValidate(this);\">\n<br><br><style>\n.field_error {font-size:11px;
+        color:#FF0000;}\n</style><div style=\"border:1px solid #eee; padding:5px;
+        width:260px;\">\n\n<table class=\"quickcontact\"><tr><td width=\"30%\"><span
+        style=\"color:#FF0000;\">*</span> <b>Name:</b></td>\n    <td width=\"70%\"><input
+        name=\"fname\" maxlength=\"50\" size=\"25\" type=\"text\"></td>\n  </tr><tr><td><span
+        style=\"color:#FF0000;\">*</span> <b>Email:</b></td>\n    <td><input name=\"emails\"
+        maxlength=\"50\" size=\"25\" type=\"text\"></td>\n  </tr><tr><td><span style=\"color:#FF0000;\">*</span>
+        <b>Phone:</b></td>\n    <td><input name=\"phonenumber\" maxlength=\"200\"
+        size=\"25\"></td>\n  </tr><tr><td><span style=\"color:#FF0000;\">*</span>
+        <b>Message:</b></td>\n    <td><textarea name=\"messageleft\" cols=\"22\" rows=\"4\"></textarea></td>\n
+        \ </tr></table><script type=\"text/javascript\">\n\nWhatAreYouHTML = {\"html\":\"\\n<div
+        style=\\\"text-align: center; padding: 10px 0 16px;\\\">\\n\\n\\t<b>Are you
+        a Robot?<\\/b>\\n\\n\\t<br \\/>\\n\\n\\t<input type=\\\"radio\\\" id=\\\"radWhatAreYou_robot\\\"
+        checked=\\\"checked\\\" name=\\\"WhatAreYou\\\" value=\\\"robot\\\" \\/><label
+        style=\\\"cursor: pointer;\\\" for=\\\"radWhatAreYou_robot\\\">Yes<\\/label>\\n\\n\\t<input
+        type=\\\"radio\\\" id=\\\"radWhatAreYou_monkey\\\" name=\\\"WhatAreYou\\\"
+        value=\\\"monkey\\\" \\/><label style=\\\"cursor: pointer;\\\" for=\\\"radWhatAreYou_monkey\\\">No<\\/label>\\n\\n<\\/div>\\n\"};\n\ndocument.write(WhatAreYouHTML['html']);\n\n</script><div
+        align=\"center\"><input type=\"image\" src=\"/assets/images/quickform-submit.png\"
+        width=\"200\" height=\"50\" value=\"Submit\"></div>\n\n<span style=\"color:#FF0000;\">*</span>
+        (<span style=\"font-size:11px;\">required fields)</span><br></div>\n\n<br><br></form>\n
+        \ \n\n<li><b>Legal Specialties<sup>&gt;</sup></b></li>\n<ul class=\"bullet\">
+        \n<li><a href=\"/Judicial-DUI-Process/\" title=\"Judical Process for Criminal
+        Defense\">Judicial Process Overview</a></li>\n<li><a href=\"/Michigan-DUI-Treatment/\"
+        title=\"DUI Treatment Options\">Michigan DUI Treatment</a></li>\n<li><a href=\"/dismissal-dui-charges-in-Michigan/\"
+        title=\"DUI Dismissals\">Dismissal of MI DUI Charges</a></li>\n<li><a href=\"/resolving-your-mi-dui-case/\"
+        title=\"DUI Case Time Limits\">Resolving your DUI Case</a></li>\n<li><a href=\"/OWI-Attorney-Operating-While-Intoxicated/\"
+        title=\"OWI Operating While Intoxicated\">Why You Need an OWI Attorney</a></li>\n<li><a
+        href=\"/License-Restoration-MI/\">License Restoration MI</a></li>\n</ul>\n\n\n<li><b>Michigan
+        Laws <sup>&gt;</sup></b></li>\n<ul class=\"bullet\"> \n<li><a href=\"/michigan-dui-laws-dwi-law.php\">Michigan
+        DUI Laws</a></li>\n<li><a href=\"/michigan-dui-owi-omvi-ubac-penalties.php\">Michigan
+        DUI Penalties</a></li>\n<li><a href=\"/michigan_traffic_laws.php\">Michigan
+        Traffic Laws</a></li>\n<li><a href=\"/michigan_drunk_driving_laws.php\">Michigan
+        Drunk Driving Laws</a></li>\n<li><a href=\"/dui-charges-in-michigan.php\">DUI
+        Charges in Michigan</a></li>\n</ul>\n\n<li><b>Defend Criminal Charges <sup>&gt;</sup></b></li>\n<ul
+        class=\"bullet\">\n<li><a href=\"/michigan_dui_criminal_sentencing.php\">Michigan
+        DUI Criminal Sentencing</a></li>\n<li><a href=\"/ouil_owi_ubal_alcohol_assessment.php\">OUIL/OWI/UBAL
+        Alcohol Assessment</a></li>\n<li><a href=\"/michigan_criminal_expungement.php\">Michigan
+        Criminal Expungement</a></li>\n<li><a href=\"/violation_of_probation_assault_and_battery.php\">Violation
+        of Probation, Assault & Battery</a></li>\n<li><a href=\"/michigan-dwi-repeat-dui-offense.php\"
+        title=\"Michigan DWI Repeat Offense\">Michigan DWI 2nd Arrest?</a></li>\n<li><a
+        href=\"/dui-consequences-for-military-officers.php\">DUI Consequences & Military</a></li>\n</ul>\n\n<li><b>Michigan
+        DUI Tips <sup>&gt;</sup></b></li>\n<ul class=\"bullet\">\n<li><a href=\"/DUI-Miranda-Rights/\"
+        title=\"DUI Defense and Miranda\">DUI &amp; Miranda Rights</a></li>\n<li><a
+        href=\"/DUI-Field-Sobriety-Tests/\" title=\"Field Sobriety Tests\">Field Sobriety
+        Tests</a></li>\n<li><a href=\"/Breathalyzer-Breath-Tests/\" title=\"Breathalyzers
+        Breath Testing Machines\">Breath Tests & DUI Defense</a></li>\n<li><a href=\"/mi-driver-license-restoration/\"
+        title=\"Driver License Restoration Factors\">MI Driver License Restored</a></li>\n</ul>\n\n</ul><!--
+        end of full .bullet -->\n</div><br />\n\n\n<img src=\"/assets/images/line.jpg\"
+        alt=\"line\" class=\"line\" />\n<p class=\"centered\">\n<span class=\"never\">Never
+        Surrender</span><br />The Law Office of Joseph Awad<br /><span class=\"never\">does
+        not give up,</span><br />and neither should you.\n</p>\n<img src=\"/assets/images/line.jpg\"
+        alt=\"line\" class=\"line\" />\n<p>Are you about to be arrested? <a href=\"/contactus.php\">Click
+        here</a> before you speak to the authorities.</p>\n\n<p>The Law Office of
+        Joseph F. Awad is a full service \nlaw firm, based in Farmington Hills, Michigan.
+        \nAttorney Awad specializes in:</p>\n<ul class=\"bullet2\">\n<li>Michigan
+        Criminal law</li>\n<li>Michigan DUI</li>\n<li>Probation Violations</li>\n<li>D.D.
+        Defense in MI</li>\n<li>MI DUI / Probation</li>\n<li>Assault &amp; Battery</li>\n<li>OUIL
+        in Michigan</li>\n<li>Domestic Violence</li>\n<li>DUI in Michigan</li>\n<li>Traffic
+        Violations</li>\n<li>MI License Restoration</li>\n<li>Criminal Expungement</li>\n<br
+        /><b>BLOGS</b>\n<ul class=\"bullet2\">\n<li><a href=\"/michigan-dui-blog/\"
+        target=\"_blank\">Michigan DUI Blog</a></li>\n<li><a href=\"http://philadelphiacriminaldefense.blogspot.com/\"
+        target=\"_blank\">PA Criminal Defense</a></li>\n</ul>\n</ul>\n\n</div><!--
+        end of #left-content -->\n\n<div id=\"right-content\">\n<div class=\"telephone\"
+        align=\"center\">\n<img src=\"/assets/images/big-line.jpg\" alt=\"Big Line\"
+        class=\"big-line\" />\n<table width=\"400\" border=\"0\" align=\"center\">\n
+        \ <tr>\n    <td width=\"10%\" valign=\"middle\"><img src=\"/assets/images/telephone.jpg\"
+        alt=\"telephone\" /></td>\n    <td width=\"80%\" valign=\"top\"><h4 class=\"telephone\">Call
+        Now: <span class=\"tel\">734-507-1333</span></h4>\n\t    <span class=\"telephone\">or
+        call our Toll Free, 24-hour Hotline at:</span><br />\n\t    <h4 class=\"telephone
+        tel\">877-MY-CRIME (<span class=\"tel\">877-692-7463</span>)</h4>\n     </td>\n
+        \ </tr>\n</table>\n<img src=\"/assets/images/big-line.jpg\" alt=\"Big Line\"
+        class=\"big-line\" />\n</div>\n<p class=\"centered\"><span class=\"theright\">The</span>
+        <span class=\"owidui\">Right</span> <span class=\"theright\">Michigan DUI
+        Lawyer for</span> <span class=\"owidui\">OWI/DWI Defense</span></p>\n\n<script
+        type=\"text/javascript\" src=\"/assets/js/mootools-core-1.3.1-full-nocompat-yc.js\"></script>\n<script
+        type=\"text/javascript\" src=\"/assets/js/NivooSlider.js\"></script>\n<link
+        href=\"/assets/css/NivooSlider.css\" rel=\"stylesheet\" type=\"text/css\"
+        media=\"screen\" />\n\n    <script type=\"text/javascript\">\n        window.addEvent('domready',
+        function(){\n\t\t\t$$('a')[1].addEvent('click', function(e){\n\t\t\t\te.stop();\n\t\t\t\talert('[you
+        triggered a click event]');\n\t\t\t});\n            new NivooSlider($('Slider'),
+        {\n\t\t\t\tdirectionNavHide: true,\n\t\t\t\teffect: 'random',\n\t\t\t\tinterval:
+        5000\n\t\t\t});\n        }); \n    </script>\n\n<div id=\"Slider\" class=\"nivoo-slider\">\n<a
+        href=\"#\"><img src=\"/assets/images/slideshow/us-constitution.jpg\" alt=\"US
+        Constitution\" border=\"0\" /></a>\n<a href=\"#\"><img src=\"/assets/images/slideshow/rows-of-books.jpg\"
+        alt=\"Rows of Books\" border=\"0\" /></a>\n<a href=\"#\"><img src=\"/assets/images/slideshow/justice.jpg\"
+        alt=\"Justice Definition\" border=\"0\" /></a>\n<a href=\"#\"><img src=\"/assets/images/slideshow/court-room.jpg\"
+        alt=\"People in a Court Room\" border=\"0\" /></a>\n<a href=\"#\"><img src=\"/assets/images/slideshow/gavel.jpg\"
+        alt=\"Gavel\" border=\"0\" /></a>\n<a href=\"#\"><img src=\"/assets/images/slideshow/library.jpg\"
+        alt=\"Library of books\" border=\"0\" /></a>\n<a href=\"#\"><img src=\"/assets/images/slideshow/stack-of-books.jpg\"
+        alt=\"Stack of Books on each other\" border=\"0\" /></a>\n</div>\n\n\n<p>Taking
+        2 minutes of your valuable time contacting us today could mean the difference
+        between hefty fines and jail and a successful defense.</p>\n\n<p>Get a <a
+        href=\"/free.php\"><b>FREE evaluation</b></a> of your Michigan DUI case. Completing
+        this quick and <b><u>totally confidential</u></b> questionnaire will bring
+        you instant access to an experienced DUI lawyer, ready and willing to provide
+        you the best DUI and Legal Defense.</p>\n\n<p>Even if this is the first time
+        you have been charged in your life, you will quickly find that <b>Mr. Joseph
+        F. Awad Esq.</b> has the experience and integrity to handle your case and
+        help you put this event behind you.</p>\n\n<p>By <b>specializing in DWI/OWI/DUI</b>
+        or <b>drunk driving defense</b>, attorney Awad has the exclusive experience
+        necessary with the diligence, persistence, expertise and legal dexterity to
+        comfortably guide you through Michigan's DWI laws and <b>defend your good
+        reputation</b> along the way.</p>\n\n<div class=\"space\"></div>\n\n<p class=\"testimonial-heading\">Testimonials</p>\n\n\n<div
+        class=\"testimonial-box2\">\n<div class=\"inner\">\n<p><b style=\"font-size:12px;\">License
+        Revocation in Plymouth, MI; Restricted License Granted</b>\n\"<b>Joseph Awad
+        provided me with excellent service.</b> I was going in front of the D.L.A.D.
+        to apply for a restricted driver's license after my 2nd DUI conviction. Mr.
+        Awad was very reliable and detailed in preparing me for the hearing. ... Any
+        questions I had he was able to provide me with the answers I needed and promptly
+        returned my phone calls. In the end I was granted my restricted license and
+        Mr. Awad was of great assistance through the whole process. I also had a situation
+        where I locked my keys in my car when it was running and had my license revoked.
+        ... Mr. Awad was on vacation and returned my phone call while on his leisure
+        time. ... Mr. Awad prepared me for that process as well and again he helped
+        me to prove that I am responsible enough to safely operate a vehicle. I would
+        recommend him to others in the future.\" <span style=\"margin-left:335px;\">-
+        RB, Plymouth, MI</span></p>\n</div><!-- end #testimonial-box .inner -->\n</div><!--
+        end of #testimonial-box -->\n\n\n<div class=\"testimonial-box2\">\n<div class=\"inner\">\n<p><b
+        style=\"font-size:12px;\">OWI Case in Oakland County, MI. Result: <u>Dismissed</u></b>\n\"When
+        one is staring into the abyss of life, to lose family, livelihood, career
+        over a DUI, the future reality of one's existence seems bleak.  Then one is
+        pulled from that abyss through the litigious determination of Joe Awad and
+        the quality of life is restored.  Attorney Awad over a lengthy court period
+        did the impossible, he had a DUI reduced to an OWI arrangement but prior to
+        signing the prosecutor's offer, Attorney Awad and I decided to plead a point
+        of law.  This is where Joe Awad is a litigator extraordinaire, he presented
+        the legality of the BAC test to the judge.  The <b>judge was intrigued</b>
+        by this point of law and the <b>prosecutor agreed with the finding.</b> The
+        court ruled the evidence invalid and dismissed the case.  The result was a
+        traffic fine. My family and especially myself have much to thank him for his
+        due diligence in handling this case.  Well done, sir!\" <span style=\"margin-left:335px;\">-
+        P.H.</span></p>\n</div><!-- end #testimonial-box .inner -->\n</div><!-- end
+        of #testimonial-box -->\n\n\n<div class=\"testimonial-box2\">\n<div class=\"inner\">\n<p><b
+        style=\"font-size:12px;\">OWI Charge Reduced to Careless Driving</b>\n\"Handling
+        my own OWI would have guaranteed me a conviction, but Joseph Awad defended
+        me in corners I never would have thought to look.  My first phone call to
+        him set the tone; he helped to gain perspective and move forward with my defense.
+        I was initially offered a lesser charge of visually impaired driving, which
+        was still financially, legally and personally onerous to accept. Attorney
+        Awad was crucial in helping me understand all my options and outcomes, not
+        just the one offered to me. On my own, I would've accepted this lesser charge
+        as well, but on Attorney Awad's advice--honest and impartially given-- I pursued
+        a further reduction of charges. Attorney Awad was spot on. He successfully
+        argued for reducing my OWI to careless driving, a harmless traffic offense.\"
+        <span style=\"margin-left:325px;\">- NS, Ann Arbor, MI</span></p>\n</div><!--
+        end #testimonial-box .inner -->\n</div><!-- end of #testimonial-box -->\n\n<div
+        class=\"testimonial-box\">\n<div class=\"inner\">\n<p><b>Client with .13 blood
+        alcohol level charged with OWI. Result: <u>Not Guilty</u></b>\n\"Joe was amazing
+        throughout my almost 6-month ordeal. He had a strategy from the very beginning
+        and never wavered from it. He was extremely thorough and constantly kept an
+        open line of communication from start to finish. After several preliminary
+        hearings where Attorney Awad successfully improved my defense, the case went
+        to trial. Attorney Awad was more than prepared with our defense and how the
+        prosecution would attempt to try the case, very detailed and kept me thinking
+        positive the entire time. The jury returned with a <b>NOT GUILTY verdict</b>.
+        I highly recommend Attorney Awad for your case. You won't regret the decision!\"
+        <span style=\"margin-left:335px;\">- L.W.</span></p>\n</div><!-- end #testimonial-box
+        .inner -->\n</div><!-- end of #testimonial-box -->\n\n\n<p class=\"centered\"><a
+        href=\"/michigan-dui-success-stories.php\">More successful DUI defense testimonials</a></p>\n\n<hr
+        class=\"big-line\" />\n<h2 class=\"criminaldefense\">Criminal Defense cases
+        we handle all across Michigan include:</h2>\n<hr class=\"big-line\" />\n\n<table
+        id=\"criminaldefensegrid\">\n  <tr>\n    <td width=\"10%\"><img src=\"/assets/images/criminal-law.jpg\"
+        alt=\"Criminal Law\" /></td>\n    <td width=\"80%\"><a href=\"/contactus.php\"><b>Criminal
+        Law</b></a><br />\n      <br />Protect yourself and your loved ones from overzealous
+        police and prosecutors.  The Law Office of Joseph Awad knows the law and will
+        use the Constitution to ensure your freedom is preserved, your rights are
+        exercised, and your life moves forward without interruption.  </td>\n  </tr>\n
+        \ <tr>\n    <td><img src=\"/assets/images/expungement.jpg\" alt=\"Expungement\"
+        /></td>\n    <td><a href=\"/contactus.php\"><b>Expungement</b></a><br />\n
+        \     <br />Clear your record quickly and quietly to improve your job prospects
+        and earning capacity.  Attorney Joseph Awad is an expert in clearing your
+        conviction record and has helped scores of individuals throughout the State
+        of Michigan and across the country clear their Michigan criminal record. </td>\n
+        \ </tr>\n  <tr>\n    <td><img src=\"/assets/images/reckless-driving.jpg\"
+        alt=\"Reckless Driving\" /></td>\n    <td><a href=\"/contactus.php\"><b>Reckless
+        Driving</b></a><br />\n      <br />There is a mandatory 90 day suspension
+        of driving privileges and a 6 point consequence for reckless driving.  Call
+        the Law Office of Joseph Awad today for the most effective way to protect
+        your ability to drive and keep your record clean.</td>\n  </tr>\n  <tr>\n
+        \   <td><img src=\"/assets/images/owi-dui.jpg\" alt=\"OUIL/UBAL/OWI/DWI/DUI\"
+        /></td>\n    <td><a href=\"/free.php\"><b>Michigan OUIL/OWI</b></a><br />\n
+        \     <br />Drunk driving in Michigan carries some of the stiffest penalties
+        in the Country.  Avoid jail and maintain your ability to drive by carefully
+        reviewing your case for opportunities.  Attorney Joseph Awad specializes in
+        drunk driving and will examine every aspect of your case personally to ensure
+        you receive every legal advantage you deserve.</td>\n  </tr>\n  <tr>\n    <td><img
+        src=\"/assets/images/drunk-driving.jpg\" alt=\"Drunk Driving\" /></td>\n    <td><a
+        href=\"/free.php\"><b>Drunk Driving in Michigan</b></a><br />\n      <br />Don't
+        let a DUI arrest weigh you down.  There are options and opportunities in every
+        OWI/DUI arrest that can give you leverage in court.  Attorney Joseph Awad
+        knows Michigan DUI defense and has helped countless individuals avoid conviction,
+        jail, license sanctions, and other costly penalties.  Call now for a confidential
+        and free evaluation of your situation and for quick assistance.</td>\n  </tr>\n
+        \ <tr>\n    <td><img src=\"/assets/images/traffic-violations.jpg\" alt=\"Traffic
+        Violations\" /></td>\n    <td><a href=\"/free.php\"><b>Michigan Traffic Violations</b></a><br
+        />\n      <br />Let the Law Office of Joseph Awad assist you in your efforts
+        to keep points off your record.  The firm has helped scores of individuals
+        keep points off their record while avoiding the confusion of court procedure.
+        \ Avoid fees and fines by seeking professional legal counsel in all area District
+        Courts with an experienced and skilled attorney.  Call today. </td>\n  </tr>\n
+        \ <tr>\n    <td><img src=\"/assets/images/felonies-misdemeanors.jpg\" alt=\"Felonies
+        Misdemeanors\" /></td>\n    <td><a href=\"/free.php\"><b>Felonies &amp; Misdemeanors</b></a><br
+        />\n      <br />The Law Office of Joseph Awad handles misdemeanor and felony
+        cases in all District and Circuit courts throughout the State of Michigan.
+        \ Every detail of your case will be reviewed and weighed to ensure you receive
+        the most comprehensive and effective legal representation available.  Protect
+        yourself from the risk of jail and other penalties by hiring the right attorney.
+        \ Joseph Awad is ready to personally take your call today to discuss the many
+        options you have.</td>\n  </tr>\n  <tr>\n    <td><img src=\"/assets/images/drivers-restoration.jpg\"
+        alt=\"Drivers License Restoration\" /></td>\n    <td><a href=\"/mi-driver-license-restoration/\"><b>Michigan
+        Drivers License Restoration</b></a><br />\n      <br />The Law Office of Joseph
+        F. Awad knows how to assist the state in determining you are safe to drive
+        following a Michigan DUI. </td>\n  </tr>  \n</table>\n<hr class=\"big-line\"
+        />\n\n<h2 class=\"criminaldefense\">You can enjoy the success that others
+        have enjoyed by Hiring the Law Office of Joseph Awad</h2>\n<p>The law, combined
+        with a good lawyer, can provide just the recipe for success for your DUI -
+        even when your outcome looks bleak. Never surrender or presume the worst.</p>\n\n<p>We
+        have designed our website to be helpful. The information, success stories
+        and legal arguments are just some of the many positions the firm has presented
+        to successfully beat DUI charges in the past.</p>\n\n<p>Like you, previous
+        clients who once despaired found success and second chances with the dedication
+        and professionalism that these legal arguments represent.</p>\n\n<p>The stories
+        and examples will sound very similar to the facts you face; if you hire the
+        firm, you can know that the same devotion and attention to detail that rescued
+        previous clients will be at work for you, as well. A good criminal defense
+        attorney who knows the law inside and out, manage an appropriate disposition
+        for your case and can provide you the legal leverage you need to protect your
+        future.</p>\n\n<p>While the names and locations of the examples given on LegalWins.com
+        have been omitted, the clients whose lives have been positively affected by
+        the firm's talent continue to express their gratitude for being given a \"second
+        chance.\"</p>\n\n<p class=\"centered\">Michigan Drunk Driving Information<br>\nMichigan
+        State Legislation</p>\n\n<p>Do you have a prior criminal conviction that you
+        would like expunged from your records? <b>Call Today!</b></p>\n\n<p>Read more
+        about Michigan DUI <a href=\"/about-michigan-dui-attorney-awad.php\">Attorney
+        Joseph F. Awad</a>...</p>\n\n<p>Refuse a <a href=\"/refuse-breath-test-mi-dui-arrest.php\">breath
+        test after DUI</a> arrest in Michigan? If you refuse to submit to the test,
+        here is what happens...</p>\n\n<p class=\"centered\"><b>All Information Submitted
+        to Us is Kept Strictly Confidential</b></p>\n\n<p>If you are facing a drunk
+        driving charge, get a <b>FREE</b> consultation for your case. Just complete
+        the form below and submit it. The firm offers statewide representation. You
+        can also contact us by visiting our Farmington Hills Office:</p>\n\n<p class=\"centered\"><a
+        href=\"http://maps.google.com/maps?f=q&source=s_q&hl=en&q=26677+W+12+Mile+Rd,+Southfield,+Oakland,+Michigan+48034&sll=37.0625,-95.677068&sspn=32.610437,59.326172&ie=UTF8&cd=1&geocode=FYCBiAIdiscI-w&split=0&hq=&hnear=26677+W+12+Mile+Rd,+Southfield,+Oakland,+Michigan+48034&ll=42.498744,-83.313532&spn=0.029616,0.057936&z=14\">Click
+        Here for Maps &amp; Directions</a><br />\n26677 W. Twelve Mile Rd.<br />\nSouthfield,
+        MI 48034<br /><br />\nOakland County Michigan DUI Lawyer</p>\n\n</div><!--
+        end of #right-content -->\n\n<div class=\"clear\"></div><!-- end of .clear
+        -->\n\n<div class=\"footerspacer\"></div>\n\n<div id=\"footer\">\n<div class=\"inner\">\n<p><a
+        href=\"/\">Law Office of Joseph F. Awad</a> | \n<a href=\"/michigan-dui-blog/\">Michigan
+        DUI Blog</a> | \n<a href=\"/Counties-Michigan/\">Counties Defended in Michigan</a>
+        | \n<a href=\"/contactus.php\">Contact Us</a><br />\n<a href=\"/michigan_drunk_driving_laws.php\">MI
+        Drunk Driving Laws</a> | \n<a href=\"/michigan_laws.php\">MI Criminal Driving
+        Offenses</a> | \n<a href=\"/michigan_traffic_laws.php\">MI Traffic Laws</a>
+        | \n<a href=\"/michigan-dui-laws-dwi-law.php\">Michigan DUI Laws</a> | \n<a
+        href=\"/crimes.php\">Michigan Criminal Law</a><br />\n<a href=\"/michigan-dui-owi-omvi-ubac-penalties.php\">Michigan
+        DUI Penalties</a> | \n<a href=\"/License-Restoration-MI/\" target=\"_blank\">License
+        Restoration MI</a> | \n<a href=\"/sitemap.php\">Sitemap</a></p>\n\n<br />\n\n<p>&copy;
+        2004-2013 Attorney Joseph Awad, Esq. |   <span class=\"adr\">\n    <!--<span
+        class=\"street-address\">26677 W 12 Mile Road</span>|--> \n    <span class=\"locality\">Southfield</span>,
+        \ \n    <abbr class=\"region\" title=\"Michigan\">MI</abbr>&nbsp;&nbsp;\n
+        \   <span class=\"postal-code\">48034</span> \n\t<span class=\"county\">Oakland
+        County</span>, \n    <span class=\"country-name\">USA</span></span><br />\nDisclaimer:
+        The information you obtain at this site is not, nor is it intended to be,
+        legal advice.<br />\nPlease <a href=\"/we_can_help.php\">consult an attorney</a>
+        for individual advice regarding your own situation.</p>\n\n<br />\n<br />\n\n</div>\n</div><!--
+        end of #footer -->\n</div><!-- end of #maincontent -->\n\n<div class=\"clear\"></div><!--
+        end of .clear -->\n</div><!-- end of #main -->\n<!-- Begin Web-Stat code -->\n<script
+        type=\"text/javascript\">\nfunction sE(){return true;}window.onError=sE;var
+        lp=0;\nfunction clr(){lp++;if(lp==1){document.ctr.src=\"http://64.49.222.57/0.gif\";}\nelse
+        {clearTimeout(myT);return true;}}\nvar myT=setTimeout('clr()',30000);var rn=0;\ndocument.write('<a
+        href=\"http://www.web-stat.com/stats.shtml?neveen23\" target=\"new\">');\ndocument.write('<img
+        name=\"ctr\" src=\"http://www.web-stat.com/fastcount.cgi?');\ndocument.write('neveen23,'+document.referrer);\nif
+        (window.screen){\ndocument.write(','+screen.width+'x'+screen.height+','+screen.colorDepth+','+rn);\n}else{document.write(',,,'+rn);}\ndocument.write('\"
+        onError=\"clr();\" onAbort=\"clr();\" onLoad=\"clearTimeout(myT);\"');\ndocument.write('border=0
+        alt=\"web-stat hit counter\" /></a>');\n</script>\n<noscript>\n<a target=\"_blank\"
+        href=\"http://www.web-stat.com/stats.shtml?neveen23\"><img \nalt=\"Web-Stat
+        hit counter\" src=\"\" border=\"0\" /></a></noscript><!-- End Web-Stat code
+        -->    \n\n<script src=\"http://www.google-analytics.com/urchin.js\" type=\"text/javascript\">\n</script>\n<script
+        type=\"text/javascript\">\n_uacct = \"UA-874239-1\";\nurchinTracker();\n</script></body>\n</html>"
+    http_version: 
+  recorded_at: Mon, 16 Dec 2013 07:59:14 GMT
+recorded_with: VCR 2.8.0
